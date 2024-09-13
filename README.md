@@ -51,6 +51,6 @@ Feedback:
 - Password should contain at least one number.
 - Password should contain at least one special character (e.g., @, $, !, etc.).
 
-  This project is licensed under the MIT License.
+ ## This project is licensed under the MIT License.
 
 This project was developed as part of a virtual internship at Prodigy InfoTech.
