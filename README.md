@@ -19,7 +19,7 @@ To use this tool, you need to have Python installed on your system. This script 
 
 1. Clone the repository:
  
- git clone https://github.com/christocy/Password-Complexity-Checker.git
+ git clone https://github.com/christocy/PRODIGY_CS_03.git
     
 2. Navigate to the project directory:
 
